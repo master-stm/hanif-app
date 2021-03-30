@@ -1,0 +1,25 @@
+:root {
+  --primary: #707070;
+  --secondary: #fa9921;
+  --tertiary: #ffffff;
+}
+
+.text-custom-primary {
+  color: var(--primary);
+}
+.text-custom-secondary {
+  color: var(--secondary);
+}
+.text-custom-tertiary {
+  color: var(--tertiary);
+}
+
+.bg-custom-primary {
+  background-color: var(--primary);
+}
+.bg-custom-secondary {
+  background-color: var(--secondary);
+}
+.bg-custom-tertiary {
+  background-color: var(--tertiary);
+}
